@@ -60,7 +60,7 @@ class CheckLoginDetailsThread(QRunnable):
                     break
             try:
                 #Connect to database
-                conn = mysql.connector.connect(user="Khalid", password="Test123123", host="kaim2.mysql.database.azure.com", database="kaim_login",port=3306)
+                conn = mysql.connector.connect(user="", password="", host="", database="",port=3306)
                 cur = conn.cursor()
             except:
                 self.toptext="ERROR"
