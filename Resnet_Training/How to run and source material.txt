@@ -1,0 +1,1 @@
+https://debuggercafe.com/satellite-image-classification-using-pytorch-resnet34/
