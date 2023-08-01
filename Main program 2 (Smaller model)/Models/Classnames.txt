@@ -1,0 +1,7 @@
+bottle-softdrink-mountaindew-softdrink
+bottle-softdrink-pepsi-softdrink
+bottle-softdrinks-cocacola-softdrink
+glassbottle-softdrink-7up-softdrink
+glassbottle-softdrink-fritz-softdrink
+glassbottle-softdrink-miranda-softdrink
+glassbottle-softdrink-pepsi-softdrink

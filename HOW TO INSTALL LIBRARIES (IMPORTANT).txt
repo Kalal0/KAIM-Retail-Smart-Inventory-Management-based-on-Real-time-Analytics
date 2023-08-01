@@ -1,0 +1,13 @@
+Step 1: Make sure Python version is 3.9
+
+Open CMD in the same folder as the project filles (either main program or main program 2)
+
+Step 2: Run these lines in order
+
+python -m pip install --upgrade pip
+
+pip install -r requirements.txt
+
+pipwin install cairocffi
+
+DONE!
