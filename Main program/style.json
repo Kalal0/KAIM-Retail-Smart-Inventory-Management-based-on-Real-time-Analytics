@@ -1,0 +1,201 @@
+{
+    "ShowLogs": true,
+    "QMainWindow": [
+        {
+            "tittle": "KAIM"
+        }
+    ],
+    "QSettings": [
+        {
+            "ThemeSettings": [
+                {
+                    "CustomTheme": []
+                }
+            ],
+            "AppSettings": {
+                "OrginizationName": "KAIM",
+                "ApplicationName": "King Saud University",
+                "OrginizationDormain": "KAIM.org"
+            }
+        }
+    ],
+    
+        "QPushButtonGroup": [{
+            "Buttons": [
+                "Home",
+                "ModelViewer",
+                "Cameras",
+                "Settings",
+                "Help",
+                "About",
+				"Report"
+            ],
+            "Style":[{
+                "Active": "background-color: #1b1b27; border-left: 3px solid #cc5bce; font-weight: bold;",
+                "NotActive": "background-color: transparent; border: none; font-weight: normal;"
+            }
+        ]
+        }
+    ],
+    "QCustomSlideMenu": [{
+		"name": "LeftMenu",
+		"defaultSize": [{
+			"width": 0,
+			"height": "parent"
+		}],
+		"collapsedSize": [{
+			"width": 0,
+			"height": "parent"
+		}],
+		"expandedSize": [{
+			"width": 200,
+			"height": "parent"
+		}],
+		"toggleButton": [{
+			"buttonName": "Menu", 
+			"icons": [{
+				"whenMenuIsCollapsed": ":/icons/Icons/align-justify.png",
+				"whenMenuIsExpanded": ":/icons/Icons/chevron-left.png"
+			}]
+		}],
+		
+		"menuTransitionAnimation": [{
+			"animationDuration": 300,
+			"animationEasingCurve": "Linear"
+		}]
+	},
+	{
+		"name": "RightMenu",
+		"defaultSize": [{
+			"width": 0,
+			"height": "parent"
+		}],
+		"collapsedSize": [{
+			"width": 0,
+			"height": "parent"
+		}],
+		"expandedSize": [{
+			"width": 200,
+			"height": "parent"
+		}],
+		"toggleButton": [{
+			"buttonName": "Editdetails",
+			"icons": [{
+				"whenMenuIsCollapsed": ":/icons/Icons/edit.png",
+				"whenMenuIsExpanded": ":/icons/Icons/window_close.png"
+			}]
+		}],
+		"menuTransitionAnimation": [{
+			"animationDuration": 300,
+			"animationEasingCurve": "Linear"
+		}]
+	},
+
+	{
+		"name": "RightMenu",
+		"defaultSize": [{
+			"width": 0,
+			"height": "parent"
+		}],
+		"collapsedSize": [{
+			"width": 0,
+			"height": "parent"
+		}],
+		"expandedSize": [{
+			"width": 200,
+			"height": "parent"
+		}],
+		"toggleButton": [{
+			"buttonName": "DisplayCameraTab",
+			"icons": [{
+				"whenMenuIsCollapsed": ":/icons/Icons/edit.png",
+				"whenMenuIsExpanded": ":/icons/Icons/window_close.png"
+			}]
+		}],
+		"menuTransitionAnimation": [{
+			"animationDuration": 300,
+			"animationEasingCurve": "Linear"
+		}]
+	}
+
+],
+    "QStackedWidget":[
+		{
+			"name":"MainPages",
+			"transitionAnimation":[
+				{
+					"fade":[
+						{
+							"active": true,
+							"duration":1000,
+							"easingCurve": "OutBack"
+						}
+					],
+					"slide":[
+						{
+							"active":true,
+							"duration": 1000,
+							"direction": "horizontal",
+							"easingCurve": "OutBack"
+						}
+					]
+				}
+			],
+			"navigation":[
+				{
+					"navigationButtons":[
+						{
+							"Home": "HomePage",
+							"ModelViewer": "ModelViewerPage",
+							"Cameras": "CamerasPage",
+							"SetupModel": "SetupModelPage",
+							"Settings":"SettingsPage",
+							"EditItems":"EditItemsInViewPage",
+							"SaveItemsInView":"CamerasPage",
+							"Report":"ReportPage",
+							"Notification":"NotificationPage"
+
+						}
+					]
+				}
+			]
+
+	
+		},
+		{
+			"name":"CameraAndDatabase",
+			"transitionAnimation":[
+				{
+					"fade":[
+						{
+							"active": true,
+							"duration":1000,
+							"easingCurve": "OutBack"
+						}
+					],
+					"slide":[
+						{
+							"active":true,
+							"duration": 1000,
+							"direction": "horizontal",
+							"easingCurve": "OutBack"
+						}
+					]
+				}
+			],
+			"navigation":[
+				{
+					"navigationButtons":[
+						{
+							"Editdetails": "DatabaseSetup",
+							"DisplayCameraTab": "CameraSetup"
+							
+						}
+					]
+				}
+			]
+		}
+	]
+
+}
+    
