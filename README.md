@@ -23,6 +23,13 @@ Below is the bare bone structure of our system:
 ![System Architecture](https://github.com/Kalal0/Retail-Smart-Inventory-Management-based-on-Real-time-Analytics/assets/109832303/34991126-093d-4dfb-ada0-0eeaea5a197e)
 
 # How did we achieve this?
-  We utilized
+The problem was split up into 2 parts:
+  - Where is the product located?
+  - What is the product?
+
+Each of these two problems required a different approach to solve. 
+
+## The "Where"
+  To know where the products are located, we used a [YOLO](https://github.com/ultralytics/ultralytics) machine learning model and trained it on the [SKU110K dataset](https://github.com/eg4000/SKU110K_CVPR19).
 
     
