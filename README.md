@@ -32,4 +32,7 @@ Each of these two problems required a different approach to solve.
 ## The "Where"
   To know where the products are located, we used a [YOLO](https://github.com/ultralytics/ultralytics) machine learning model and trained it on the [SKU110K dataset](https://github.com/eg4000/SKU110K_CVPR19).
 
+## The "What"
+  Seeing as how there isn't any publicly available "fine grained" datasets for Saudi Arabia retailing store products, we had t
+
     
