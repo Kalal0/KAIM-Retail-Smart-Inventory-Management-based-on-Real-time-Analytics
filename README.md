@@ -1,2 +1,2 @@
-# Retail-Smart-Inventory-Management-based-on-Real-time-Analytics
-BS Degree Graduation project 2023 - King Saud University
+# KAIM
+KAIM is a retail inventory mangement system that utilizes AI and cameras to provide an all encompassing inventory management system. This project was our CS Bachelor degree graduation project. 
