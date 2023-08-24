@@ -37,6 +37,8 @@ Each of these two problems required a different approach to solve.
 
 
 # Linking it with the store database
-  In this step we simply linked the device to
+  The program has a GUI interface, the user has the option to add the database information (Database IP, Name, Password, etc... ). The Program will then pull all the table information from the database and display them in the program.
 
+# Main program loop:
+  Once everything is set up, all the user has to do is click start, and program will running. 
     
