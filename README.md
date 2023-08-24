@@ -10,6 +10,13 @@ KAIM is a retail inventory mangement system that utilizes AI and cameras to prov
 
 
 # System overview
+The system is comprised of four parts: 
+  - Camera
+  - Server
+  - Database
+  - Product Shelf
+
+The server is connected to both the store database and all the cameras that are monitoring the store shelves. Whenever a new product is added or taken from that shelf, our AI model will detect that change and send the appropriate information to the server. From there the server will update the store database accordingly.
 
 ![System Architecture](https://github.com/Kalal0/Retail-Smart-Inventory-Management-based-on-Real-time-Analytics/assets/109832303/34991126-093d-4dfb-ada0-0eeaea5a197e)
 
