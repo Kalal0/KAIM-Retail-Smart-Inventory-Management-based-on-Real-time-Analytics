@@ -1,7 +1,7 @@
 # KAIM
 KAIM is a retail inventory mangement system that utilizes AI and cameras to provide an all encompassing inventory management system. This project was our CS Bachelor degree graduation project. The project was supervised by [Dr. Bander AlSulami](https://sa.linkedin.com/in/bander-alsulami-ph-d-6011a8a).
 
-This document will not cover everything only the main points. If you would like more detail refer to the KAIM_FINALREPORT Document.
+This document will not cover everything, only the main points. If you would like a more indepth look, refer to the KAIM_FINALREPORT Document.
 
 # Team members: 
   - Khalid Alghamdy 441100858@student.ksu.edu.sa
