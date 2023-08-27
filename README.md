@@ -41,4 +41,21 @@ Each of these two problems required a different approach to solve.
 
 # Main program loop:
   After the camera(s) is/are connected, and the database is linked. Some other settings should be set up beforehand such as snapshot frequency. The default is 10 secs, this means that the system will compare camera frames every 10 seconds and search for a change. The amount of cameras that can be connected at once depends on the number of cores the server CPU has. Finally the user can start the main program loop by a click of a button.
-    
+
+
+# Screenshots
+
+### Login Screen
+![image](https://github.com/Kalal0/Retail-Smart-Inventory-Management-based-on-Real-time-Analytics/assets/109832303/535a048f-7dcb-45e5-9ea5-dc8815a11e58)
+
+
+### Database Viewer
+![image](https://github.com/Kalal0/Retail-Smart-Inventory-Management-based-on-Real-time-Analytics/assets/109832303/7fb78c73-95d0-4b75-848e-4995ce39c4ac)
+
+
+### Database Viewer after connecting to an external database
+![image](https://github.com/Kalal0/Retail-Smart-Inventory-Management-based-on-Real-time-Analytics/assets/109832303/df6e5bd6-68ea-47da-9ac3-d0e9b61d0f7a)
+
+
+### Settings tab
+![image](https://github.com/Kalal0/Retail-Smart-Inventory-Management-based-on-Real-time-Analytics/assets/109832303/2c7fa8e8-3c7e-43d8-8a8e-cfa3be778ba1)
