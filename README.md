@@ -34,8 +34,15 @@ Each of these two problems required a different approach to solve.
 ## The "Where"
   To know where the products are located, we used a [YOLO](https://github.com/ultralytics/ultralytics) machine learning model and trained it on the [SKU110K dataset](https://github.com/eg4000/SKU110K_CVPR19).
 
+  ![image](https://github.com/Kalal0/Retail-Smart-Inventory-Management-based-on-Real-time-Analytics/assets/109832303/10e7a644-c1f9-4bbf-a8fc-2d2f2b1aba5e)
+
+
 ## The "What"
   Seeing as how there isn't any publicly available "fine grained" datasets for Saudi Arabian retailing store products, we had to create our own. We gathered our dataset by taking pictures of store shelves and passing those images to our YOLO model to provide us with indivdual product images. The stores were Al-Danube and Al-Tamimi. After structuring our dataset we trained it using a [Resnet34](https://www.kaggle.com/datasets/pytorch/resnet34) Model.
+
+#### Dataset gathering process: 
+![image](https://github.com/Kalal0/Retail-Smart-Inventory-Management-based-on-Real-time-Analytics/assets/109832303/5ec1c740-c37b-4466-a380-7a4e5e07c117)
+
 
 
 # Linking it with the store database
@@ -61,3 +68,5 @@ Each of these two problems required a different approach to solve.
 
 ### Settings tab
 ![image](https://github.com/Kalal0/Retail-Smart-Inventory-Management-based-on-Real-time-Analytics/assets/109832303/2c7fa8e8-3c7e-43d8-8a8e-cfa3be778ba1)
+
+
