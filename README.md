@@ -70,7 +70,7 @@ Each of these two problems required a different approach to solve.
 ![image](https://github.com/Kalal0/Retail-Smart-Inventory-Management-based-on-Real-time-Analytics/assets/109832303/2c7fa8e8-3c7e-43d8-8a8e-cfa3be778ba1)
 
 
-### Flowchart 
+### Main Program Flowchart 
 
 ![Main system loop](https://github.com/Kalal0/Retail-Smart-Inventory-Management-based-on-Real-time-Analytics/assets/109832303/ae596651-a127-4171-ac93-6382db803a57)
 
