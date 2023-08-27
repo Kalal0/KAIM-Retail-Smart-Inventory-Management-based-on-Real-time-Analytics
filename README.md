@@ -3,6 +3,11 @@ KAIM is a retail inventory mangement system that utilizes AI and cameras to prov
 
 This document will not cover everything, only the main points. If you would like a more indepth look, refer to the KAIM_FINALREPORT Document.
 
+
+# DEMO:
+
+
+
 # Team members: 
   - Khalid Alghamdy 441100858@student.ksu.edu.sa
   - Abdulrahman Alalyan 441102443@student.ksu.edu.sa
