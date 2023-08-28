@@ -11,7 +11,11 @@ In this example the clorox bottle was subtracted from the database then added, w
 
 
 
-Uploading Kaim TEST2 (1).mp4…
+
+
+https://github.com/Kalal0/Retail-Smart-Inventory-Management-based-on-Real-time-Analytics/assets/109832303/f9ed2fb1-89a9-4207-87cb-7089feba7988
+
+
 
 
 Our system works by comparing the current frame with the previous frame, if it detects a change it will update the database accordingly either by subtraction or addition. 
