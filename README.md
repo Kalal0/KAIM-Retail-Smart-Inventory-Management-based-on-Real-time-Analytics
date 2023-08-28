@@ -29,7 +29,7 @@ This could be further imporved to include other objects such as shopping carts a
 # Team members: 
   - Khalid Alghamdy 441100858@student.ksu.edu.sa
   - Abdulrahman Alalyan 441102443@student.ksu.edu.sa
-  - Ibrahim Alathbah 441103443@student.ksu.edu.sa
+  - Ibrahim Alazba [github page.](https://github.com/ibrahim-alazba)
   - Mohanned Alghonaim 441101453@student.ksu.edu.sa
 
 
