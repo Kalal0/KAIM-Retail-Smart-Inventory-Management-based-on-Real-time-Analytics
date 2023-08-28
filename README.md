@@ -6,6 +6,16 @@ This document will not cover everything, only the main points. If you would like
 
 # DEMO:
 
+In this example the clorox bottle was subtracted from the database then added, while skipping frames where the human was visible.
+
+https://github.com/Kalal0/Retail-Smart-Inventory-Management-based-on-Real-time-Analytics/assets/109832303/98dfa3bf-b6b7-4f3b-a54d-b167f06e8efc
+
+Our system works by comparing the current frame with the previous frame, if it detects a change it will update the database accordingly either by subtraction or addition. 
+
+To ensure no false updates take place, the system will skip any frames that contain humans. 
+This could be further imporved to include other objects such as shopping carts and handbags. (i.e common items that could block the camera's vision and lead to false updates)
+
+
 
 
 # Team members: 
