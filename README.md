@@ -72,7 +72,7 @@ Each of these two problems required a different approach to solve.
 
 
 # Linking it with the store database
-  The program has a GUI interface, the user has the option to add the database information (Database IP, Name, Password, etc... ). The Program will then pull all the table information from the database and display them in the program.
+  The program has a GUI interface, the user has the option to add the database information (Database IP, Name, Password, etc... ). The program will then pull all the table information from the database and display them in the program.
 
 # Main program loop:
   After the camera(s) is/are connected, and the database is linked. Some other settings should be set up beforehand such as snapshot frequency. The default is 10 secs, this means that the system will compare camera frames every 10 seconds and search for a change. The amount of cameras that can be connected at once depends on the number of cores the server CPU has. Finally the user can start the main program loop by a click of a button.
