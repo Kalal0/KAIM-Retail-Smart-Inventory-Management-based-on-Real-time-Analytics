@@ -30,7 +30,7 @@ This could be further imporved to include other objects such as shopping carts a
   - [Khalid Alghamdy](https://github.com/Kalal0)
   - [Abdulrahman Alalyan](https://github.com/AxelSh)
   - [Ibrahim Alazba](https://github.com/ibrahim-alazba)
-  - [Mohanned Alghonaim](https://github.com/Kokuten7777)
+  - [Mohannd Alghonaim](https://github.com/Kokuten7777)
 
 
 
